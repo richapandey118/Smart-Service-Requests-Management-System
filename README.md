@@ -11,10 +11,9 @@ This project aims to provide a comprehensive system for managing service request
 - Role-based access control for users and administrators.
 
 ## Technology Stack
-- **Frontend:** HTML, CSS, JavaScript, [Frameworks used]
-- **Backend:** Node.js, [Frameworks used]
-- **Database:** [Database used]
-- **Others:** [Other tools and technologies used]
+- **Frontend:** HTML, CSS, JavaScript,
+- **Backend:** PHP
+- **Database:** MySQL
 
 ## Installation Instructions
 1. Clone the repository:
